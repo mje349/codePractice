@@ -20,6 +20,8 @@ lll::~lll()
     //TODO call remove_all()
 }
 
+
+//Prints the entire list starting from the head
 void lll::print()
 {
     //check if the list is empty first
