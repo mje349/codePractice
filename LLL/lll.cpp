@@ -6,7 +6,7 @@
  */
 
 #include "lll.h"
-#include <iostream>
+#include <cstdlib>
 
 //Default Constructor
 lll::lll()
@@ -29,6 +29,5 @@ void lll::print()
         return;
     //Print here
 }
-
 
 
