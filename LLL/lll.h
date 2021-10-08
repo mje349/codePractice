@@ -27,6 +27,9 @@ public:
     ~lll();
 
     //Prints the lll starting from the head
-    void print();
+    int print();
+
+    //Adds an element at the head of the list
+    int insert(int in);
 };
 #endif
